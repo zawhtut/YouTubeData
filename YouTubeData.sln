@@ -1,0 +1,57 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeData", "YouTubeData\YouTubeData.csproj", "{43C264F7-0C65-4D62-BA09-589AFFEE4618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeData.Droid", "Droid\YouTubeData.Droid.csproj", "{5C45E66C-FD91-4499-96AD-901CDC034A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeData.iOS", "iOS\YouTubeData.iOS.csproj", "{F317DA2B-DF53-41B7-917E-7113A37B44EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|iPhone.Build.0 = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{43C264F7-0C65-4D62-BA09-589AFFEE4618}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|iPhone.Build.0 = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{5C45E66C-FD91-4499-96AD-901CDC034A00}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|Any CPU.Build.0 = Release|iPhone
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|iPhone.Build.0 = Release|iPhone
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F317DA2B-DF53-41B7-917E-7113A37B44EC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
